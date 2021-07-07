@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wa/nIiI+jaCT7/S48y3d3j13XOZVsZHCfYh6zdIpUtP11FkcXjZrPtiJZgvfCJQi8Dsfazcls4ddz5BWtxEF0Q==",
+  "success": true,
+  "projectFilePath": "D:\\esgi\\4eme_annee\\S2\\design pattern\\AL2\\Projets\\9\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet\\ESGI.DesignPattern.Projet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
